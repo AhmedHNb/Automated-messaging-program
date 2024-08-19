@@ -1,0 +1,28 @@
+Welcome
+here it is Ahmed's Automated messaging program 
+first of all there are many situations when you found your self have to send a  whatsapp message to a lot of people
+one of this situations :
+when you are one of marketing employees , and you should tell all your customers that you have a new product or new offer for theme or ......etc
+My new project has the solution for you .
+
+before you run the code you should to check your internet connection and you should to signin whatsapp web .
+make sure that you have pywahtkit and vobject libraries installed on your computer 
+
+Ok lets talk about the code and how you can try it
+first you should have a vcf file that contains all your contacts , then you put the path of this file in the file_path variable.
+second step : enter your message to message variable
+then you put the countrey code too in its variable .
+last of all you should to write the time you want to send the messages in 24 form
+finally run the code , and it will send your message to all the contacts in your vcf file 
+
+soon, my project will be can send emails too...
+enjoy..
+
+connect with me on linkedin : 
+https://www.linkedin.com/in/ahmed-al-nabelsi-/
+
+
+
+
+
+
